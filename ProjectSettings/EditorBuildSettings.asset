@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GameMenu.unity
+    guid: bc2c8234ad2809e4bbb78636360005dc
+  - enabled: 1
+    path: Assets/LegendOfViscarious.unity
+    guid: 539815c5136acb94cbe334234c01446f
